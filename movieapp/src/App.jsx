@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     <Hello name="World" />
+     <Hello name="Olumide" />
     
     </>
   )
